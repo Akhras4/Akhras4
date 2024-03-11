@@ -14,7 +14,7 @@
 <p dir="auto">
 <a src="https://codepen.io/A-Akhras">
 <img 
-  href="![4550862_demo view_codepen_test_web developer_code_icon](https://github.com/Akhras4/Akhras4/assets/65845301/649230bb-8666-4a9b-8f88-2dc69de55425)"
+  href="![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)"
 />
 </a>
   
