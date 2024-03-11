@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Akhras</h1>
 <h3 align="center">A Junior Fullstack developer</h3>
 <p dir="auto">
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" style="width:70%">
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" style="width:70%;higth:100%">
 <p dir="auto" >
 <h3>Like my work:</h3>
 <a titel="Like Akhras work? Buy him a coffee" href="#">
