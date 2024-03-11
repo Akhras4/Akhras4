@@ -2,11 +2,14 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Akhras</h1>
 <h3 align="center">A Junior Fullstack developer</h3>
 <img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*Nh_pliddv1BFAx68.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhras4" alt="akhras4" /></a> </p>
 
 - 📫 How to reach me **Abdoakhras4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a scr="https://codepen.io/A-Akhras"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465")
+"></a>
+<a scr="https://codepen.io/A-Akhras"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465")
+"></a>
 <a scr="https://codepen.io/A-Akhras"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465")
 "></a>
 <h3 align="left">Languages and Tools:</h3>
