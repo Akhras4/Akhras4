@@ -5,7 +5,7 @@
 <img float="left" align="center" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <h3 float="right" align="right">Like my work:</h3>
 
-<a titel="Like Akhras work? Buy him a coffee" href="#">
+<a float="right" titel="Like Akhras work? Buy him a coffee" href="#">
  <img src="https://camo.githubusercontent.com/894951153e82908a9d4dbe16847d27c651688d82e7d57baf59a5ec18b1b2ddef/68747470733a2f2f696d672e6275796d6561636f666665652e636f6d2f627574746f6e2d6170692f3f746578743d427579206d65206120636f6666656526656d6f6a693d26736c75673d636f646577697468616873616e26627574746f6e5f636f6c6f75723d42443546464626666f6e745f636f6c6f75723d66666666666626666f6e745f66616d696c793d436f6d6963266f75746c696e655f636f6c6f75723d30303030303026636f666665655f636f6c6f75723d464644443030" style="max-width: 100%";/>
 </a>
 </p>
