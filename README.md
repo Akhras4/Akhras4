@@ -14,7 +14,7 @@
 <p dir="auto">
 <a src="https://codepen.io/A-Akhras">
 <img 
-  src="![4745716_code_codepen_coding_development_program_icon](https://github.com/Akhras4/Akhras4/assets/65845301/cbc2590f-cd15-4272-b476-bb4975b578f5" style="max-width: 100%;"
+  href="![4745716_code_codepen_coding_development_program_icon](https://github.com/Akhras4/Akhras4/assets/65845301/cbc2590f-cd15-4272-b476-bb4975b578f5" style="max-width: 100%;"
 />
 </a>
   
