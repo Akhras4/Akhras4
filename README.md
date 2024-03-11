@@ -13,7 +13,7 @@
 </p>
 <p dir="auto">
 <a src="https://codepen.io/A-Akhras">
-<img src="![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)">
+<img src="https://camo.githubusercontent.com/6a8c85a79a385181245ef0cea6e6c674b0d21b9e1b5f3f5850f79bfd9d96c8ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646570656e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465"style="max-width: 100%";>
 </a>
   
 <a href="https://codepen.io/A-Akhras">
