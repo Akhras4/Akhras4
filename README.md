@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdulrahman Akhras</h1>
 <h3 align="center">A Junior Fullstack developer</h3>
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*Nh_pliddv1BFAx68.gif">
+<img align="center" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 
 <h3 align="left">Like my work:</h3>
@@ -16,7 +16,7 @@
 <a href="https://codepen.io/A-Akhras">
 <img src="https://camo.githubusercontent.com/6a8c85a79a385181245ef0cea6e6c674b0d21b9e1b5f3f5850f79bfd9d96c8ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646570656e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465"style="max-width: 100%";>
 </a>
-<a href="UCPZLyhgR9VWNTo3tRufcSOw">
+<a href="https://www.youtube.com/@a.akhras3298">
 <img src="https://camo.githubusercontent.com/4c91b5d587f82e3ea0df6978845aea9370200c5f626a2fa7d6e48d2db40c8aa0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465"style="max-width: 100%";>
 </a>
  
